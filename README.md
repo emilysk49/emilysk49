@@ -6,7 +6,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilysk49&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilysk49&layout=donut&&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧰 Ferramentas
 
